@@ -11,8 +11,6 @@ module <name> // tên module
 
 	assign ... // mô phỏng tầng xử lý dữ liệu
 
-
-
 	always begin // mô phỏng chức năng vùng logic
 		// xử lý dữ liệu & chỉ định chức năng ...
 		// sử dụng task hoặc function 
